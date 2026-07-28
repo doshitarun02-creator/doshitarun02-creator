@@ -10,6 +10,7 @@
 <img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
+[![trophy](https://github-profile-trophy.vercel.app/doshitarun02-creator=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <a href="https://github.com/doshitarun02-creator">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=doshitarun02-creator&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="doshitarun02-creator's GitHub Stats" />
